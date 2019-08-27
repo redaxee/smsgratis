@@ -6,7 +6,7 @@ s = Session()
 localtime = time.asctime( time.localtime(time.time())  )
 try:
         print("=====================================")
-        print("Minimal 7 huruf \nAwalan Menggunkan 08 ex : 08xxxxxxxxx
+        print("Minimal 7 huruf \nAwalan Menggunkan 08 ex : 08xxxxxxxxx ")
         print("Date Time :",localtime)
         print("=====================================")
         no = int(input("Nomer Tujuan  : "))
